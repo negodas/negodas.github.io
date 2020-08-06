@@ -1,7 +1,91 @@
-body{
-    background-color: black;
+Body{
+    background-color:white;
+    color: gray;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#banner{
+    padding: 100px;
+    text-align: center;
+    color:white;
+    height:80%;
+    background-size: cover;
+    background-image: url(cabeçalho.jpg)
+    
+}
+h1{
+    line-height: 4em;
+    font-size: 50px;
+    color: black;
+}
+h2{
+    margin-bottom: 50px;
+}
+.acão{
+    background:white;
+    color:black;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.acão:hover{
+    background: black;
     color: white;
 }
-.imagem1 {
+#logo{
+    width: 70px;
     float: left;
+
 }
+#cabeçalho{
+    background: black;
+    clear: both;
+    overflow: hidden;
+}
+#menu{
+    float: right;
+    list-style: none;
+}
+#menu li{
+    display: inline;
+    
+}
+h2{
+    text-align: center;
+
+}
+#menu li a{
+    padding:20px 40px ;
+    background: black;
+    color: white;
+    text-decoration: none;
+    
+}
+#menu li a:hover{
+    background: white;
+    color: black;
+}
+#Energia h1{
+    text-align: center;
+}
+#tópicos{
+    width: 30%;
+    float: left;
+    padding: 20px 40px;
+}
+#topico2{
+    width: 30%;
+    float: left;
+    padding: 20px 40px;
+}
+#tópicos{
+    overflow: hidden;
+}
+.iconesimage{
+    width: 50px;
+
+}
+
+
