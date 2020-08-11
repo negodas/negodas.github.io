@@ -52,7 +52,7 @@ h2{
     display: inline;
     
 }
-h2{
+#centro{
     text-align: center;
 
 }
@@ -87,5 +87,26 @@ h2{
     width: 50px;
 
 }
+#textoenergia2{
+    text-align: center;
 
+}
+#Solução{
+    text-align: center;
+}
+#video{
+    text-align: center;
+}
+#ODS{
+    text-align: center;
+
+}
+#textoods{
+    text-align: left;
+}
+#titulo{
+    color: #F5B91B;
+    -webkit-text-stroke-width: 2px;
+
+}
 
